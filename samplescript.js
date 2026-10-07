@@ -9,7 +9,7 @@ const details = document.getElementById('details');
 
 // Change Name
 buttonname.addEventListener('click', function () {
-    studentname.textContent = 'Emmanuel Evangelista';
+    studentname.textContent = "Emmanuel Evangelista";
 });
 
 // Change Background
